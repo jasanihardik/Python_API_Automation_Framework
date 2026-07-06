@@ -1,0 +1,23 @@
+{
+  "missing_firstname": {
+    "lastname": "Jasani",
+    "totalprice": 475,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2026-08-10",
+      "checkout": "2026-08-15"
+    },
+    "additionalneeds": "Breakfast"
+  },
+  "invalid_totalprice_type": {
+    "firstname": "Hardik",
+    "lastname": "Jasani",
+    "totalprice": "invalid-price",
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2026-08-10",
+      "checkout": "2026-08-15"
+    },
+    "additionalneeds": "Breakfast"
+  }
+}

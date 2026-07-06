@@ -1,0 +1,28 @@
+{
+  "standard_booking": {
+    "firstname": "Hardik",
+    "lastname": "Jasani",
+    "totalprice": 475,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2026-08-10",
+      "checkout": "2026-08-15"
+    },
+    "additionalneeds": "Breakfast"
+  },
+  "updated_booking": {
+    "firstname": "Hardik",
+    "lastname": "Jasani",
+    "totalprice": 650,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2026-09-01",
+      "checkout": "2026-09-05"
+    },
+    "additionalneeds": "Late checkout"
+  },
+  "partial_update": {
+    "firstname": "Automation",
+    "lastname": "Tester"
+  }
+}

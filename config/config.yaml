@@ -1,0 +1,11 @@
+demo:
+  base_url: "https://restful-booker.herokuapp.com"
+  timeout: 15
+  headers:
+    Accept: "application/json"
+    Content-Type: "application/json"
+  auth:
+    username: "admin"
+    password: "password123"
+  performance:
+    max_response_time_ms: 3000
