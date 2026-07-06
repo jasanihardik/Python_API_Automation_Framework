@@ -177,11 +177,19 @@ Serve Allure report locally:
 allure serve reports/allure-results
 ```
 
+## Environment Selection
+
+The framework uses `demo` as the default environment.
+
+The `demo` environment points to the public Restful Booker API configured in:
+
+```text
+config/config.yaml
+
 ## Environment Configuration
 
 Default environment is `demo`.
 
-```bash
 API_ENV=demo pytest
 ```
 
